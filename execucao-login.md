@@ -2,7 +2,7 @@
 
 | ID   | Caso de Teste                          | Resultado Esperado                                | Resultado Obtido                                       | Status | Observações                       |
 |------|----------------------------------------|---------------------------------------------------|--------------------------------------------------------|--------|----------------------------------|
-| CT01 | Login com credenciais válidas          | Redireciona para a página de Produtos                  | Redirecionou corretamente                              | OK     | —                                |
+| CT01 | Login com credenciais válidas          | Login bem-sucedido e redirecionamento para página de produtos                  | Login realizado e Redirecionou corretamente                              | OK     | —                                |
 | CT02 | Login com usuário inválido             | Exibe erro de usuário inválido                    | Exibiu mensagem: "Username and password do not match" | OK     | —                                |
 | CT03 | Login com senha inválida               | Exibe erro de senha incorreta                     | Exibiu mensagem de erro                                | OK     | —                                |
 | CT04 | Campos vazios                          | Exibe mensagem de campos obrigatórios             | Exibiu erro corretamente                               | OK     | —                                |
