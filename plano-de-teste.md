@@ -15,4 +15,4 @@ Validar o comportamento das funcionalidades principais do site SauceDemo.
 
 ## Ambiente de Testes
 - URL: https://www.saucedemo.com
-- Navegador: Google Chrome (última versão)
+- Navegador: Microsoft Edge
